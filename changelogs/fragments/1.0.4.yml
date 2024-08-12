@@ -1,0 +1,4 @@
+minor_changes:
+  - (TEST)nso_action can now handle YANG model choices as input parameters (https://github.com/CiscoDevNet/ansible-nso/issues/1)
+ 
+  
